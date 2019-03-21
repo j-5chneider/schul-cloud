@@ -1,0 +1,16 @@
+.boxcenter {
+  text-align: center;
+}
+
+.resize {
+    height: 100px !important;
+    width: 100px !important;
+}
+
+.modebar {
+display: none !important;
+}
+
+.modebar-group {
+display: none !important;
+}
